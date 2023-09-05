@@ -152,3 +152,22 @@ Define como va a funcionar, trabajar nuestro angular.
 
 En este archivo se puede modificar el builder para que trabaje con el Vite.js
 
+## .editorconfig
+
+Como tiene que interpretar el editor de codigo el codigo
+
+## main.ts
+
+es donde esta el bootstraping de nuestra app, es agarrar y decirle Angular corre y el AppComponent es el componente principal, 
+
+## index.html
+
+Sigue siendo por ahora una SPA, tenemos el archivo inicial ahi esta el `<app-root>`
+
+## assets/
+
+En assets puede estar el contenido estático
+
+## app.routes.ts
+
+Archivo de rutas
